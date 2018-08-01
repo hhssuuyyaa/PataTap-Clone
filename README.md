@@ -1,6 +1,6 @@
 # PataTap-Clone
 
-Its a clone of famour Patatap website. In this every key corresponds to respective animation and sound.
+Its a clone of famous Patatap website. In this every key corresponds to respective animation and sound.
 Its just a fun app and good practice to test your css skills.
 
 **Take a look at _Gif_ below to understand and for sound take a look at _YouTube_ link provided below**
